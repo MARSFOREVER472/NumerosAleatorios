@@ -10,4 +10,4 @@
 - **_Es decir, el mismo usuario introduce un valor inicial y un valor final y entoneces la aplicación genera números al azar (números aleatorios) con valores que estarán comprendidos entre ese valor inicial y final que fue agregado por dicho usuario._**
 - **_Es una aplicación sencilla de realizar pero nos sirve para poner en práctica nuestros conocimentos de Javascript._**
 
-- **_En esta aplicación se usan los métodos random y floor de Javascript. Math.random nos genera los números aleatorios, mientras que Math.floor redondea esos números aleatorios a su valor más inferior. Y estos 2 métodos combinados nos permiten crear una aplicación como la que se explica en este vídeo, donde seremos capaces de generar números aleatorios usando Javascript._**
+- **_En esta aplicación se usan las funciones random y floor de Javascript. Math.random nos genera los números aleatorios, mientras que Math.floor redondea esos números aleatorios a su valor más inferior. Y estos 2 métodos combinados nos permiten crear una aplicación como la que se explica en este vídeo, donde seremos capaces de generar números aleatorios usando Javascript._**
