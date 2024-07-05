@@ -1,2 +1,2 @@
 # NumerosAleatorios
-_Genera números aleatorios en un rango dado (Javascript)._
+**_Genera números aleatorios en un rango dado (Javascript)._**
