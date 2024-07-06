@@ -1,5 +1,5 @@
 # NumerosAleatorios
-**_Genera números aleatorios en un rango dado (Javascript)._**
+### **_Genera números aleatorios en un rango dado (Javascript)._**
 
 - **_Cómo crear números aleatorios utilizando Javascript._**
 - **_Proyectos en Javascript: Aprende a generar números aleatorios en un rango dado._**
