@@ -4,6 +4,7 @@
 
 - **_How to create random numbers using Javascript._**
 - **_Javascript Projects: Learn to generate random numbers in a given range._**
+- Learn how to use the Math.random and Math.floor functions to create real applications in Javascript.
 
 ### **_Genera números aleatorios en un rango dado (Javascript)._**
 
