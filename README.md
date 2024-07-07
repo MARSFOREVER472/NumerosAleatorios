@@ -2,7 +2,7 @@
 
 ### **_Generates random numbers in a given range (Javascript)._**
 
-- How to create random numbers using Javascript.
+- _How to create random numbers using Javascript._
 
 ### **_Genera números aleatorios en un rango dado (Javascript)._**
 
