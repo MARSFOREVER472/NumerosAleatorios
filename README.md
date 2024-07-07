@@ -3,6 +3,7 @@
 ### **_Generates random numbers in a given range (Javascript)._**
 
 - **_How to create random numbers using Javascript._**
+- Javascript Projects: Learn to generate random numbers in a given range.
 
 ### **_Genera números aleatorios en un rango dado (Javascript)._**
 
