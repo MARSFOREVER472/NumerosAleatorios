@@ -1,6 +1,6 @@
 # NumerosAleatorios
 
-### Generates random numbers in a given range (Javascript).
+### _Generates random numbers in a given range (Javascript)._
 ### **_Genera números aleatorios en un rango dado (Javascript)._**
 
 - **_Cómo crear números aleatorios utilizando Javascript._**
