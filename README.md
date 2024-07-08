@@ -8,6 +8,7 @@
 - **_The best-known programming language as Javascript continues to be one of the most powerful and most used languages ​​in the web environment, and in this section we are going to create a real project/application in Javascript where we will be able to generate random numbers from a range determined by the user himself._**
 - **_That is, the same user enters an initial value and a final value and then the application generates random numbers (random numbers) with those values ​​that will be included between that initial and final value that was added by said user._**
 - **_It is a much simpler application to make but it helps us put all our knowledge into practice using Javascript._**
+- In this same application, functions are used through Javascript random and floor methods. Math.random generates random numbers for us, while Math.floor rounds these random numbers to their lowest value. And with these 2 methods combined they allow us to create an application.
 
 ### **_Genera números aleatorios en un rango dado (Javascript)._**
 
