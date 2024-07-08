@@ -2,7 +2,7 @@
 
 ### **_Generates random numbers in a given range (Javascript)._**
 
-- **_How to create random numbers using Javascript._**
+- **_How to generate random numbers using Javascript._**
 - **_Javascript Projects: Learn to generate random numbers in a given range._**
 - **_Learn how to use the Math.random and Math.floor functions to create real applications in Javascript._**
 - **_The best-known programming language as Javascript continues to be one of the most powerful and most used languages ​​in the web environment, and in this section we are going to create a real project/application in Javascript where we will be able to generate random numbers from a range determined by the user himself._**
