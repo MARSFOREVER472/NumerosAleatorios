@@ -12,7 +12,7 @@
 
 ### **_Genera números aleatorios en un rango dado (Javascript)._**
 
-- **_Cómo crear números aleatorios utilizando Javascript._**
+- **_Cómo generar números aleatorios utilizando Javascript._**
 - **_Proyectos en Javascript: Aprende a generar números aleatorios en un rango dado._**
 - **_Aprende a utilizar las funciones Math.random y Math.floor para poder crear aplicaciones reales en Javascript._**
 - **_El lenguaje de programación más conocido como Javascript sigue siendo uno de los lenguajes más potentes y más utilizados en el entorno web, y en este apartado vamos a crear un proyecto/aplicación real en Javascript donde vamos a poder generar números aleatorios a partir de un rango determinado por el propio usuario._**
